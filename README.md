@@ -1,4 +1,4 @@
-### 1. Deployment Name: Deployment
+### 1. Deployment Name: mydeploy
 ---
 ### 2. Service type: NodePort
 
